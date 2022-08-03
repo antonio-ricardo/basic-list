@@ -1,0 +1,1 @@
+- fila basica que fica sendo checada a cada 10 em 10 segundos
